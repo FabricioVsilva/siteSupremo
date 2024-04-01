@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+
+
+.img-fluid {
+
+    align-items: center;
+    text-align: aito;
+
+}
+
+
+.titulo {
+
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+}
+
+
+.paragrafo {
+
+    text-align: justify;
+}
